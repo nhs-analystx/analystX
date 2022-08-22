@@ -9,16 +9,19 @@ title: Centre of Excellence
 </p>
 <h2>Current Members:</h2>
 <ul>
-  <li><b>ZhiQing Huang</b> - Logan Tod & Co</li>
   <li><b>Suki Panesar</b> - NHS England</li>
   <li><b>Alex Cheung</b> - NHS England</li>
-  <li><b>NHS Trust host</b> - Mersey Care NHS Foundation Trust</li>
-  <li><b>Commissiong Support Unit</b> - Arden and GEM CSU</li>
-  <li><b>NHS innovators</b> - Mid and South Essex ICS, Northampton Automation Accelerator, London Specialist Commissioning</li>
-</ul>
+  <li><b>Simon Snowden</b> - NHS England</li>
+  <li><b>Jiri Chard</b> - NHS England</li>
+  <li><b>Sarah Blundell</b> - NHS England</li>
+   <li><b>Victroia Cornelius</b> - NHS England</li>
+  <li><b>Alex Bosche</b> - NHS England</li>
+ </ul>
+ <h2>Strategic partners:</h2>
+ 
 
 <div class="nhsuk-do-dont-list">
-  <h3 class="nhsuk-do-dont-list__label">Principles and aims of the <a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX Process Mining Centre of Excellence</a></h3>
+  <h3 class="nhsuk-do-dont-list__label">Principles and aims of the <a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX</a></h3>
   <ul class="nhsuk-list nhsuk-list--tick">
       <li>
           <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
