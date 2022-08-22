@@ -1,6 +1,6 @@
 --- 
 layout: default
-title: Centre of Excellence
+title: box leads, teams and strategic partners
 ---
 
 <h2><a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX Process Mining Centre of Excellence</a></h2>
