@@ -3,9 +3,9 @@ layout: default
 title: box leads, teams and strategic partners
 ---
 
-<h2><a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX Process Mining Centre of Excellence</a></h2>
+<h2><a href="https://future.nhs.uk/DataAnalytics/">AnalystX Team and Members</a></h2>
 <p>
-  The Centre of Excellence will upload new learning material from organisations periodically. This will ensure new learning material is available for our learners and community members. 
+ AnalystX team works in a matrtix enviornment, we support and help each other to plan, develop and help with projects.
 </p>
 <h2>Current Members:</h2>
 <ul>
