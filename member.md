@@ -1,6 +1,6 @@
 --- 
 layout: default
-title: box leads, teams and strategic partners
+title: box leads, teams and community leads
 ---
 
 <h2><a href="https://future.nhs.uk/DataAnalytics/">AnalystX Team and Members</a></h2>
