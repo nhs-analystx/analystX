@@ -20,11 +20,13 @@ title: box leads, teams and community leads
   <li><b>Garvin Taylor</b> - Health Economics Unit</li>
   <li><b>Sarah Culkins</b> - NHS England</li>
  </ul>
+ <ul>
  <h2>Community leads</h2>
    <li><b>Alistair Bullward</b> Data viz - NHS digital </li>
    <li><b>Julia Wilkins</b> Data science - Health Economics Unit </li>
    <li><b>Andrew Lavelle</b> AnalystX SQL - NHS England </li>
    <li><b>Jiri Chard</b> Applied evaluation - NHS England </li>
+</ul>
 
 <div class="nhsuk-do-dont-list">
   <h3 class="nhsuk-do-dont-list__label">Principles and aims of the <a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX</a></h3>
