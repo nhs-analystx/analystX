@@ -5,7 +5,7 @@ email:             England.analystx@nhs.net
 author:            AnalystX
 description:       "Welcome to AnalystX"
 url:               "https://nhs-analystx.github.io/"
-baseurl:           "analystx/"
+baseurl:           "analystX/"
 github_username:   nhs-analystx
 linkedin_username: 
 date_format:       "%b %-d, %Y"
