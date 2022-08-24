@@ -14,11 +14,17 @@ title: box leads, teams and strategic partners
   <li><b>Simon Snowden</b> - NHS England</li>
   <li><b>Jiri Chard</b> - NHS England</li>
   <li><b>Sarah Blundell</b> - NHS England</li>
-   <li><b>Victroia Cornelius</b> - NHS England</li>
+  <li><b>Victroia Cornelius</b> - NHS England</li>
   <li><b>Alex Bosche</b> - NHS England</li>
+  <li><b>Riddhi Aggarwal </b> - NHS England</li>
+  <li><b>Garvin Taylor</b> - Health Economics Unit</li>
+  <li><b>Sarah Culkins</b> - NHS England</li>
  </ul>
- <h2>Strategic partners:</h2>
- 
+ <h2>Community leads</h2>
+   <li><b>Alistair Bullward</b> Data viz - NHS digital </li>
+   <li><b>Julia Wilkins</b> Data science - Health Economics Unit </li>
+   <li><b>Andrew Lavelle</b> AnalystX SQL - NHS England </li>
+   <li><b>Jiri Chard</b> Applied evaluation - NHS England </li>
 
 <div class="nhsuk-do-dont-list">
   <h3 class="nhsuk-do-dont-list__label">Principles and aims of the <a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX</a></h3>
