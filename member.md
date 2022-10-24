@@ -18,7 +18,6 @@ title: box leads, teams and community leads
   <li><b>Alex Bosche</b> - NHS England</li>
   <li><b>Riddhi Aggarwal </b> - NHS England</li>
   <li><b>Garvin Taylor</b> - Health Economics Unit</li>
-  <li><b>Sarah Culkins</b> - NHS England</li>
  </ul>
  <ul>
  <h2>Community leads</h2>
@@ -26,10 +25,12 @@ title: box leads, teams and community leads
    <li><b>Julia Wilkins</b> Data science - Health Economics Unit </li>
    <li><b>Andrew Lavelle</b> AnalystX SQL - NHS England </li>
    <li><b>Jiri Chard</b> Applied evaluation - NHS England </li>
+   <li><b>Sarah Culkins</b> - NHS England</li>
+   <li
 </ul>
 
 <div class="nhsuk-do-dont-list">
-  <h3 class="nhsuk-do-dont-list__label">Principles and aims of the <a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX</a></h3>
+  <h3 class="nhsuk-do-dont-list__label">Principles and aims of the AnalystX</a></h3>
   <ul class="nhsuk-list nhsuk-list--tick">
       <li>
           <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
