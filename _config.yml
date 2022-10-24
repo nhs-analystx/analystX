@@ -4,7 +4,7 @@ title:             AnalystX
 email:             England.analystx@nhs.net
 author:            AnalystX
 description:       "Welcome to AnalystX"
-url:               "analystx.info"
+url:               "https://analystx.info"
 baseurl:           "analystX/"
 github_username:   nhs-analystx
 linkedin_username: 
