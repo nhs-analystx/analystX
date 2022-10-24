@@ -21,12 +21,12 @@ title: box leads, teams and community leads
  </ul>
  <ul>
  <h2>Community leads</h2>
-   <li><b>Alistair Bullward</b> Data viz - NHS digital </li>
-   <li><b>Julia Wilkins</b> Data science - Health Economics Unit </li>
-   <li><b>Andrew Lavelle</b> AnalystX SQL - NHS England </li>
-   <li><b>Jiri Chard</b> Applied evaluation - NHS England </li>
-   <li><b>Sarah Culkins</b> - NHS England</li>
-   <li
+   <li><b>Alistair Bullward</b> - NHS Digital - Data Viz and BI Community for Health and Care</li>
+   <li><b>Julia Wilkins</b> - Health Economics Unit - Data science Community for Health and Care</li>
+   <li><b>Andrew Lavelle</b> - NHS England -  AnalystX SQL for Health and Care</li>
+   <li><b>Jiri Chard</b> - NHS England -  Applied Evaluation Community of Practice</li>
+   <li><b>Sarah Culkins</b> - NHS England - Data science assembly </li>
+   <li><b>Rony Arafin</b> - NHS England - NHSE-R community
 </ul>
 
 <div class="nhsuk-do-dont-list">
