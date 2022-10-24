@@ -26,7 +26,7 @@ title: box leads, teams and community leads
    <li><b>Andrew Lavelle</b> - NHS England -  AnalystX SQL for Health and Care</li>
    <li><b>Jiri Chard</b> - NHS England -  Applied Evaluation Community of Practice</li>
    <li><b>Sarah Culkins</b> - NHS England - Data science assembly </li>
-   <li><b>Rony Arafin</b> - NHS England - NHSE-R community
+ <li><b>Rony Arafin</b> - NHS England - NHSE-R community</li>
 </ul>
 
 <div class="nhsuk-do-dont-list">
