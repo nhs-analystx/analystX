@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code of Conduct
-permalink: /codeofconduct
+permalink: /code_of_conduct
 ---
 
 ### 1. Purpose
