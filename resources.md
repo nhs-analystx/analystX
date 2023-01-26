@@ -16,7 +16,7 @@ A number of blogs have been created and available to read on the [AnalystX works
 - [Population Health Data and Analytics Centre of Excellence](https://future.nhs.uk/DataAnalytics/view?objectID=28819536)
 
 <ul class="nhsuk-grid-row nhsuk-card-group">
-    <li class="nhsuk-grid-column-one-thirds nhsuk-card-group__item">
+    <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
             <img class="nhsuk-card__img" src="assets/img/links/slack-min.png" alt="AnalystX Process Mining Slack">
             <div class="nhsuk-card__content">
@@ -27,7 +27,7 @@ A number of blogs have been created and available to read on the [AnalystX works
             </div>
         </div>
     </li>
-<li class="nhsuk-grid-column-one-thirds nhsuk-card-group__item">
+<li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
             <img class="nhsuk-card__img" src="assets/img/links/linkedin-min.png" alt="AnalystX LinkedIn">
             <div class="nhsuk-card__content">
@@ -38,6 +38,8 @@ A number of blogs have been created and available to read on the [AnalystX works
             </div>
         </div>
     </li>
+</ul>
+<ul class="nhsuk-grid-row nhsuk-card-group">
 <li class="nhsuk-grid-column-one-thirds nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
             <img class="nhsuk-card__img" src="assets/img/links/youtube-min.png" alt="AnalystX Youtube">
@@ -49,9 +51,7 @@ A number of blogs have been created and available to read on the [AnalystX works
             </div>
         </div>
     </li>
- </ul>
-<ul class="nhsuk-grid-row nhsuk-card-group">
-    <li class="nhsuk-grid-column-one-thirds nhsuk-card-group__item">
+<li class="nhsuk-grid-column-one-thirds nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
             <img class="nhsuk-card__img" src="assets/img/links/FutureNHS.jpg" alt="AnalystX">
             <div class="nhsuk-card__content">
@@ -62,6 +62,8 @@ A number of blogs have been created and available to read on the [AnalystX works
             </div>
         </div>
     </li>
+   </ul>
+<ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
             <img class="nhsuk-card__img" src="assets/img/links/github-min.png" alt="AnalystX GitHub">
@@ -74,4 +76,6 @@ A number of blogs have been created and available to read on the [AnalystX works
         </div>
     </li>
 </ul>
-       <p>If you have any further queries or would like to contribute further information, please contact england.analystx@nhs.net</p>
+     
+##Contact us##
+If you have any further queries or would like to contribute further information, please contact england.analystx@nhs.net
