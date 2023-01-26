@@ -73,29 +73,5 @@ A number of blogs have been created and available to read on the [AnalystX works
             </div>
         </div>
     </li>
-        <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
-        <div class="nhsuk-card nhsuk-card--clickable">
-            <img class="nhsuk-card__img" src="assets/img/microsoft.jfif" alt="Microsoft learn">
-            <div class="nhsuk-card__content">
-                <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                    <a class="nhsuk-card__link" href="https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql"> Microsoft T-SQL</a>
-                </h2>
-                <p>The e-Learning modules provides an introduction to relational database, SQL language and Transact-SQL</p>
-            </div>
-        </div>
-    </li>
 </ul>
-<ul class="nhsuk-grid-row nhsuk-card-group">
-    <li class="nhsuk-grid-column-one-thirds nhsuk-card-group__item">
-        <div class="nhsuk-card nhsuk-card--clickable">
-            <img class="nhsuk-card__img" src="assets/img/w3.jfif" alt="W3 school">
-            <div class="nhsuk-card__content">
-                <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                    <a class="nhsuk-card__link" href="https://www.w3schools.com/sql/"> W3 school learning/a>
-                </h2>
-                <p>Online tutorial and free learning material for SQL language and T-SQL</p>
-            </div>
-        </div>
-    </li>
-       </ul>
        <p>If you have any further queries or would like to contribute further information, please contact england.analystx@nhs.net</p>
