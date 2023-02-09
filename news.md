@@ -11,7 +11,7 @@ title: AnalystX News update
 	    </div>  
 
 
-<h2><a href="https://future.nhs.uk/DataAnalytics/">AnalystX News Feb 2023</a></h2>
+<h2><a href="https://future.nhs.uk/DataAnalytics/">AnalystX</a></h2>
 
 <p> Regular updates from AnalystX </p>
 
