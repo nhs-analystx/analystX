@@ -3,6 +3,14 @@ layout: default
 title: AnalystX News update
 ---
 
+<div class="nhsuk-grid-row">
+	    <div class="nhsuk-grid-column-full">
+	        <div class="nhsuk-card">
+	            <img alt="analystx-community" class="nhsuk-card__img" src="assets/img/news.jpg" />
+	        </div>
+	    </div>  
+
+
 <h2><a href="https://future.nhs.uk/DataAnalytics/">AnalystX News Feb 2023</a></h2>
 
 <p> Regular updates from AnalystX </p>
