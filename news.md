@@ -40,7 +40,7 @@ title: AnalystX News update
     <li><a href="https://www.snowflake.com/webinar/live-demo-leveraging-unstructured-data-to-support-population-health/">February 23rd - Live Demo by Snowflake: Leveraging unstructured Data to support population health</a></li>
     <li><a href="https://future.nhs.uk/DataAnalytics/view?objectId=157701349#157701349">February 20th - Curator by Interworks</a></li>
    <li>AnalystX Data Viz show and tell – 28th Feb 2023 – <a href="https://data-viz.analystx.uk">sign up via slack</a></li>
-   </ul>
+</ul>
 
 We are keen to support new communities in development of existing networks. Please get in touch if you would like support the development of the Process Mining Centre of Excellence.
 – email [england.analystX@nhs.net](mailto:england.analystx@nhs.net) for more information.
