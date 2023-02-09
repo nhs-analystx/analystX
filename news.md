@@ -10,10 +10,7 @@ title: AnalystX News update
 	        </div>
 	    </div>  
 
-
-<h2><a href="https://future.nhs.uk/DataAnalytics/">AnalystX</a></h2>
-
-<p> Regular updates from AnalystX </p>
+	<h2>Regular updates from AnalystX</h2>
 
 <h2>Jan 2023:</h2>
 
