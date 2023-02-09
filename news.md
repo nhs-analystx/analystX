@@ -28,6 +28,8 @@ title: AnalystX News update
 	<li><b>Data Viz show and tell </b> - held on 24th Jan 2023 – <a href="https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnhsdataviz.slack.com%2Farchives%2FC030AT8823V%2Fp1673970437715139&data=05%7C01%7Calex.cheung1%40nhs.net%7Cf85d17e86cc04e68d5fa08db0ac01d56%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638115592462843628%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EhgMuOer9fvjcbBmxzcQh9s%2B7Bs3xnp3bm9WWqwBZ08%3D&reserved=0"> Revisit here</a></li>
 </ul>
 	</div>
+	</div>
+	
 	<div class="nhsuk-grid-row">
 	    <div class="nhsuk-grid-column-full">
 <h2>Feb 2023</h2>
@@ -43,6 +45,7 @@ title: AnalystX News update
 <li><b>AnalystX Data Viz show and tell</b> – 28th Feb 2023 – <a href="https://data-viz.analystx.uk">sign up via slack</a></li>
 </ul>
 		</div>
+	</div>
 
 <br/>
 We are keen to support new communities in development of existing networks. Please get in touch if you would like support the development of the Process Mining Centre of Excellence.
