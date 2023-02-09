@@ -45,6 +45,6 @@ title: AnalystX News update
 
 <br/>
 We are keen to support new communities in development of existing networks. Please get in touch if you would like support the development of the Process Mining Centre of Excellence.
-	– email: <a href="mailto:england.analystX@nhs.net">AnalystX</a>for more information.
+	– email: <a href="mailto:england.analystX@nhs.net">AnalystX</a> for more information.
 
 
