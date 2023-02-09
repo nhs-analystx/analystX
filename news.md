@@ -41,7 +41,7 @@ title: AnalystX News update
 	</li>
 <li><b>AnalystX Data Viz show and tell</b> – 28th Feb 2023 – <a href="https://data-viz.analystx.uk">sign up via slack</a></li>
 </ul>
-	</div>
+</div>
 
 <br/>
 We are keen to support new communities in development of existing networks. Please get in touch if you would like support the development of the Process Mining Centre of Excellence.
