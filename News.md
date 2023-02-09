@@ -6,7 +6,7 @@ title: AnalystX News update
 <div class="nhsuk-grid-row">
 	    <div class="nhsuk-grid-column-full">
 	        <div class="nhsuk-card">
-	            <img alt="News" class="nhsuk-card__img" src="assets/img/news.png" />
+	            <img alt="News" class="nhsuk-card__img" src="assets/img/news1.png" />
 	        </div>
 	    </div>  
 
