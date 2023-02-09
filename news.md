@@ -26,9 +26,12 @@ title: AnalystX News update
     <li><a href="https://future.nhs.uk/DataAnalytics/view?objectID=41074640">January 23rd - Novel Solution for Population Insights and Pathway Optimisation by FITFILE</a></li>
     <li><a href="https://future.nhs.uk/DataAnalytics/view?objectID=40691984">January 16th - 'Doing the right amount of the right things' Smarter decision making for ICSs by Health Economics Unit</a></li>
     <li><a href="https://future.nhs.uk/DataAnalytics/view?objectID=40691984">January 9th - Data Apprenticeship Case Studies by Cambridge Spark</a>/li>
-    <li><a href="https://future.nhs.uk/DataAnalytics/view?objectID=40536496">January 2nd - Diversity in Healthcare parts 2 & 3</a></li>
+    <li><a href="https://future.nhs.uk/DataAnalytics/view?objectID=40536496">January 2nd - Diversity in Healthcare parts 2 & 3</a>
+	</ul>
+	</li>
  <li><b>Data Viz show and tell </b> - held on 24th Jan 2023 – <a href="https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnhsdataviz.slack.com%2Farchives%2FC030AT8823V%2Fp1673970437715139&data=05%7C01%7Calex.cheung1%40nhs.net%7Cf85d17e86cc04e68d5fa08db0ac01d56%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638115592462843628%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EhgMuOer9fvjcbBmxzcQh9s%2B7Bs3xnp3bm9WWqwBZ08%3D&reserved=0"> Revisit here</a></li>
 </ul>
+
  
 
 <h2>Feb 2023</h2>
@@ -38,7 +41,9 @@ title: AnalystX News update
   <li><b>Population Health Data and Analytics Centre of Excellence</b>
   <ul>
     <li><a href="https://www.snowflake.com/webinar/live-demo-leveraging-unstructured-data-to-support-population-health/">February 23rd - Live Demo by Snowflake: Leveraging unstructured Data to support population health</a></li>
-    <li><a href="https://future.nhs.uk/DataAnalytics/view?objectId=157701349#157701349">February 20th - Curator by Interworks</a></li>
+    <li><a href="https://future.nhs.uk/DataAnalytics/view?objectId=157701349#157701349">February 20th - Curator by Interworks</a>
+	  </ul>
+	</li>
    <li>AnalystX Data Viz show and tell – 28th Feb 2023 – <a href="https://data-viz.analystx.uk">sign up via slack</a></li>
 </ul>
 
