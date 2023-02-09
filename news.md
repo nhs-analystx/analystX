@@ -25,7 +25,7 @@ title: AnalystX News update
     <li><a href="https://future.nhs.uk/DataAnalytics/view?objectID=41254192">January 30th - Power BI course & Data Doctor sessions by Microsoft</a></li>
     <li><a href="https://future.nhs.uk/DataAnalytics/view?objectID=41074640">January 23rd - Novel Solution for Population Insights and Pathway Optimisation by FITFILE</a></li>
     <li><a href="https://future.nhs.uk/DataAnalytics/view?objectID=40691984">January 16th - 'Doing the right amount of the right things' Smarter decision making for ICSs by Health Economics Unit</a></li>
-    <li><a href="https://future.nhs.uk/DataAnalytics/view?objectID=40691984">January 9th - Data Apprenticeship Case Studies by Cambridge Spark</a>/li>
+    <li><a href="https://future.nhs.uk/DataAnalytics/view?objectID=40691984">January 9th - Data Apprenticeship Case Studies by Cambridge Spark</a></li>
     <li><a href="https://future.nhs.uk/DataAnalytics/view?objectID=40536496">January 2nd - Diversity in Healthcare parts 2 & 3</a>
    </ul>
    </li>
