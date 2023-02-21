@@ -22,7 +22,8 @@ title: AnalystX News update
 	</li>
 <li><b>AnalystX Data Viz show and tell</b> – 28th Feb 2023 – <a href="https://data-viz.analystx.uk">sign up via slack</a></li>
 
-	
+
+<br/>
 	
 
 <h2>Jan 2023:</h2>
