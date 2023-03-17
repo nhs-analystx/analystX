@@ -35,10 +35,9 @@ title: AnalystX News update
 	<li>Launch of our <a href="https://sql-community.analystx.uk/"><b>NHS-SQL community</b></a></li> 
 	<li><b>New strategic partner</b> -  <a href="https://jifjaff.co.uk/">JifJaff</a> has joined analystX partners network 
   <li><b>Population Health Data and Analytics Centre of Excellence</b>
-  <ul>
-    <li><a href="https://www.snowflake.com/webinar/live-demo-leveraging-unstructured-data-to-support-population-health/">February 23rd - Live Demo by Snowflake: Leveraging unstructured Data to support population health</a></li>
+	</ul>
+	<li><a href="https://www.snowflake.com/webinar/live-demo-leveraging-unstructured-data-to-support-population-health/">February 23rd - Live Demo by Snowflake: Leveraging unstructured Data to support population health</a></li>
     <li><a href="https://future.nhs.uk/DataAnalytics/view?objectId=157701349#157701349">February 20th - Curator by Interworks</a></li>
-	  </ul>
 	</li>
 <li><b>AnalystX Data Viz show and tell</b> – 28th Feb 2023 – <a href="https://data-viz.analystx.uk">sign up via slack</a></li>
 </ul>
