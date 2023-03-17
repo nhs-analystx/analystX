@@ -17,13 +17,13 @@ title: AnalystX News update
 	<li><a href="https://www.engage.england.nhs.uk/survey/bcc1f396/">The State of the Nation Survey</a> is now live, this survey is to continue to quantify and understand the data professional landscape within health and care organisations.</li>
 	<li><a href="https://sql-community.analystx.uk/">SQL challenge from NHS-SQL community</a> – Every month we will be setting up a challenge for all.</li>
 	</ul>
-<p>Population Health Data and Analytics Centre of Excellence</p>
+	<p><b>Population Health Data and Analytics Centre of Excellence</b></p>
 	<ul>
-	<li>The Information Lab - Escape room, <a href="https://future.nhs.uk/DataAnalytics/view?objectID=28819536">Sign up here</a></li>
-	<li>e-Zest - Data Landscape Maturity Workshop <a href="https://future.nhs.uk/DataAnalytics/view?objectID=28819536">Sing up here</a></li>
+		<li><b>The Information Lab</b> - Escape room, <a href="https://future.nhs.uk/DataAnalytics/view?objectID=28819536">Sign up here</a></li>
+		<li><b>e-Zest</b> - Data Landscape Maturity Workshop <a href="https://future.nhs.uk/DataAnalytics/view?objectID=28819536">Sing up here</a></li>
 	</ul>
 
-<p>Other items that might be of interest:</p>
+	<p><b>Other items that might be of interest:</b></p>
 	<ul>
 		<li><a href="https://youtu.be/DAzY78z8fns">Blockchain & NFTs with MonstarLab</a></li>
 	</ul>
