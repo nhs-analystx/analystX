@@ -9,8 +9,28 @@ title: AnalystX News update
 	            <img alt="News" class="nhsuk-card__img" src="assets/img/news1.png" />
 	        </div>
 	    </div>  
+<br/>
+<h2>March 2023</h2>
+	<p>We are excited to bring you some latest updates and insights from AnalystX.  In February and March, our community continues to push the boundaries of what is possible with data. </p>
+	<p>Here is a quick look at what we have been up to this month:</p>
+	<ul>
+	<li><a href="https://www.engage.england.nhs.uk/survey/bcc1f396/">The State of the Nation Survey</a> is now live, this survey is to continue to quantify and understand the data professional landscape within health and care organisations.</li>
+	<li><a href="https://sql-community.analystx.uk/">SQL challenge from NHS-SQL community</a> – Every month we will be setting up a challenge for all.</li>
+	</ul>
+<p>Population Health Data and Analytics Centre of Excellence</p>
+	<ul>
+	<li>The Information Lab - Escape room, <a href="https://future.nhs.uk/DataAnalytics/view?objectID=28819536">Sign up here</a></li>
+	<li>e-Zest <a href="https://future.nhs.uk/DataAnalytics/view?objectID=28819536">Data Landscape Maturity Workshop with e-Zest</a></li>
+	</ul>
 
-	<h2>Feb 2023</h2>
+<p>Other items that might be of interest:</p>
+	<ul>
+		<li><a href="https://youtu.be/DAzY78z8fns">Blockchain & NFTs with MonstarLab</a></li>
+	</ul>
+<br/> 
+	
+
+<h2>Feb 2023</h2>
 <ul>
 	<li>Launch of our <a href="https://sql-community.analystx.uk/"><b>NHS-SQL community</b></a></li> 
 	<li><b>New strategic partner</b> -  <a href="https://jifjaff.co.uk/">JifJaff</a> has joined analystX partners network 
