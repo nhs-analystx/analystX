@@ -39,10 +39,7 @@ title: AnalystX News update
 	<ul>
 <li><b>The Information Lab</b> - Escape room, <a href="https://future.nhs.uk/DataAnalytics/view?objectID=28819536">This event is in the process of being rescheduled.</a></li>
 <li><b>e-Zest</b> - Data Landscape Maturity Workshop <a href="https://future.nhs.uk/DataAnalytics/view?objectID=42326096">revisit the recording here</a></li>
-	</ul>
-<h3><b>Other items that might be of interest:</b></h3>
-	<ul>
-	<li><a href="https://youtu.be/DAzY78z8fns">Blockchain & NFTs with MonstarLab</a></li>
+<li><a href="https://youtu.be/DAzY78z8fns">Blockchain & NFTs with MonstarLab</a></li>
 	</ul>
 <br/> 
 	
@@ -60,7 +57,7 @@ title: AnalystX News update
 
 <h3>AnalystX community</h3>
 	<ul>
-<li><b>AnalystX Data Viz show and tell</b> – 28th Feb 2023 – <a href="https://data-viz.analystx.uk">sign up via slack</a></li>
+<li><b>AnalystX Data Viz show and tell</b> – 28th Feb 2023 – <a href="https://data-viz.analystx.uk">Revisit here</a></li>
 </ul>
 
 <br/>
