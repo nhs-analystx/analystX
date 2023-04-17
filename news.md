@@ -20,7 +20,7 @@ title: AnalystX News update
 <li>AnalystX data viz community show and tell to sign up, please use the following link <a href="https://data-viz.analystx.uk/">AnalystX Data Viz</a>. </li>
 	</ul>
 
-	<h3>one more news</h3>
+<h3>one more news</h3>
 <p>Congratulations to our NHS RAP team who has been shortlisted for the 2023 HSJ digital awards under the category of Replicating Digiral Best Practice Award  - <a href="https://digitalawards.hsj.co.uk/shortlist-2023">More info about this event here</a>.
 		
 	
@@ -41,9 +41,7 @@ title: AnalystX News update
 	<ul>
 	<li><a href="https://youtu.be/DAzY78z8fns">Blockchain & NFTs with MonstarLab</a></li>
 	</ul>
-<br/> 
-	
-
+<br/> 	
 <h2>Feb 2023</h2>
 <ul>
 	<li>Launch of our <a href="https://sql-community.analystx.uk/"><b>NHS-SQL community</b></a></li> 
