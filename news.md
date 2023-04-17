@@ -10,6 +10,21 @@ title: AnalystX News update
 	        </div>
 	    </div>  
 <br/>
+<h2>April 2023</h2>
+<p><a href="https://www.engage.england.nhs.uk/survey/bcc1f396/53">The State of the Nation Survey</a> – still chance to take part in this crucial survey to continue to quantify and understand the data professional lan?dscape within health and care organisations.</p>
+<p><a href="https://www.surveymonkey.co.uk/r/6YHZJCH">Spring Raffle</a> – take part in our Population Health Data & Analytics Centre of Excellence quiz and enter our raffle to win exciting freebies.
+
+<h3>Other items coming up that might be of interest:</h3>
+<ul>
+<li>Successful multidisciplinary teams huddle [waiting on link from Riddhi]</li>
+<li>AnalystX data viz community show and tell to sign up, please use the following link <a href="https://data-viz.analystx.uk/">AnalystX Data Viz</a>. </li>
+	</ul>
+
+	<h3>one more news</h3>
+<p>Congratulations to our NHS RAP team who has been shortlisted for the 2023 HSJ digital awards under the category of Replicating Digiral Best Practice Award  - <a href="https://digitalawards.hsj.co.uk/shortlist-2023">More info about this event here</a>.
+		
+	
+<br/>
 <h2>March 2023</h2>
 	<p>We are excited to bring you some latest updates and insights from AnalystX.  In February and March, our community continues to push the boundaries of what is possible with data. </p>
 	<p>Here is a quick look at what we have been up to this month:</p>
