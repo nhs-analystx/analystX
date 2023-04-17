@@ -34,8 +34,8 @@ title: AnalystX News update
 	</ul>
 <p><b>Population Health Data and Analytics Centre of Excellence</b></p>
 	<ul>
-		<li><b>The Information Lab</b> - Escape room, <a href="https://future.nhs.uk/DataAnalytics/view?objectID=28819536">Sign up here</a></li>
-		<li><b>e-Zest</b> - Data Landscape Maturity Workshop <a href="https://future.nhs.uk/DataAnalytics/view?objectID=28819536">Sing up here</a></li>
+		<li><b>The Information Lab</b> - Escape room, <a href="https://future.nhs.uk/DataAnalytics/view?objectID=28819536">This event is in the process of being rescheduled.</a></li>
+		<li><b>e-Zest</b> - Data Landscape Maturity Workshop <a href="https://future.nhs.uk/DataAnalytics/view?objectID=42326096">revisit the recording here</a></li>
 	</ul>
 <p><b>Other items that might be of interest:</b></p>
 	<ul>
