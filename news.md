@@ -20,7 +20,7 @@ title: AnalystX News update
 <li>AnalystX data viz community show and tell to sign up, please use the following link <a href="https://data-viz.analystx.uk/">AnalystX Data Viz</a>. </li>
 	</ul>
 
-<h3>one more news</h3>
+<h3>One more news</h3>
 <p>Congratulations to our NHS RAP team who has been shortlisted for the 2023 HSJ digital awards under the category of Replicating Digiral Best Practice Award  - <a href="https://digitalawards.hsj.co.uk/shortlist-2023">More info about this event here</a>.
 		
 	
