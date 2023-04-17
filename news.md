@@ -48,8 +48,8 @@ title: AnalystX News update
 	
 <h2>Feb 2023</h2>
 <ul>
-	<li>Launch of our <a href="https://sql-community.analystx.uk/"><b>NHS-SQL community</b></a></li> 
-	<li><b>New strategic partner</b> -  <a href="https://jifjaff.co.uk/">JifJaff</a> has joined analystX partners network 
+	<li>Launch of our <a href="https://sql-community.analystx.uk/">NHS-SQL community</a></li> 
+	<li><b>New strategic partner</b> - <a href="https://jifjaff.co.uk/">JifJaff</a> has joined analystX partners network</li>
 </ul>
 
 <h3>Population Health Data and Analytics Centre of Excellence</h3>
@@ -57,7 +57,8 @@ title: AnalystX News update
 	<li><a href="https://www.snowflake.com/webinar/live-demo-leveraging-unstructured-data-to-support-population-health/">February 23rd - Live Demo by Snowflake: Leveraging unstructured Data to support population health</a></li>
     <li><a href="https://future.nhs.uk/DataAnalytics/view?objectId=157701349#157701349">February 20th - Curator by Interworks</a></li>
 	</ul>
-	<h3>AnalystX community</h3>
+
+<h3>AnalystX community</h3>
 	<ul>
 <li><b>AnalystX Data Viz show and tell</b> – 28th Feb 2023 – <a href="https://data-viz.analystx.uk">sign up via slack</a></li>
 </ul>
@@ -77,9 +78,8 @@ title: AnalystX News update
     <li><a href="https://future.nhs.uk/DataAnalytics/view?objectID=40691984">January 16th - 'Doing the right amount of the right things' Smarter decision making for ICSs by Health Economics Unit</a></li>
     <li><a href="https://future.nhs.uk/DataAnalytics/view?objectID=40691984">January 9th - Data Apprenticeship Case Studies by Cambridge Spark</a></li>
     <li><a href="https://future.nhs.uk/DataAnalytics/view?objectID=40536496">January 2nd - Diversity in Healthcare parts 2 & 3</a></li>
-	</li>
 	</ul>
-	<h3>AnalystX community</h3>
+<h3>AnalystX community</h3>
 	<ul>
 	<li><b>Data Viz show and tell </b> - held on 24th Jan 2023 – <a href="https://data-viz.analystx.uk/"> Revisit here</a></li>
 	</ul>
