@@ -13,6 +13,7 @@ title: AnalystX News update
 <h2>April 2023</h2>
 <p><a href="https://www.engage.england.nhs.uk/survey/bcc1f396/53">The State of the Nation Survey</a> – still chance to take part in this crucial survey to continue to quantify and understand the data professional lan?dscape within health and care organisations.</p>
 <p><a href="https://www.surveymonkey.co.uk/r/6YHZJCH">Spring Raffle</a> – take part in our Population Health Data & Analytics Centre of Excellence quiz and enter our raffle to win exciting freebies.
+<p>nhs.pycom is currently seeking new members to join our board, for more information, please visit the <a href="https://nhs-pycom.slack.com">nhs.pycom</a> slack channel. 
 
 <h3>Other items coming up that might be of interest:</h3>
 <ul>
