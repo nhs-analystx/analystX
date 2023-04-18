@@ -25,7 +25,7 @@ The Improvement Analytics Unit (IAU), a partnership between NHS England and the 
 <p>
 	Speaker:  Therese Llyod, The Health Foundation </p>
  <p>
-	 When: Tuesday 25th April 2023, 11am – 12pm></p>
+	 When: Tuesday 25th April 2023, 11am – 12pm</p>
  <a href="https://forms.office.com/pages/responsepage.aspx?id=kp4VA8ZyI0umSq9Q55Ctv0WCvCpdCLVBoLZR63IewlBUOU5RT01aM09XSUFDWDZKS0owTzlLNUxSUi4u">sign up here</a></li>
 	</ul>
 	<h3>AnalystX community</h3>
