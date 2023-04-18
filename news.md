@@ -17,7 +17,7 @@ title: AnalystX News update
 
 <h3>Other items coming up that might be of interest:</h3>
 <ul>
-<li><h4>Realising the Potential of Community Based Multi-Disciplinary Teams<h4>
+<li><h4>Realising the Potential of Community Based Multi-Disciplinary Teams</h4>
  <p>
 Community-based multidisciplinary teams (MDTs) bring together a mix of health and care professionals to plan and coordinate people’s care. MDTs are widely thought to deliver high quality care for people with chronic conditions but evidence on the impact of community-based MDTs is mixed. </p?
 <p>
