@@ -17,7 +17,16 @@ title: AnalystX News update
 
 <h3>Other items coming up that might be of interest:</h3>
 <ul>
-<li>Successful multidisciplinary teams huddle [waiting on link from Riddhi]</li>
+<li><h4>Realising the Potential of Community Based Multi-Disciplinary Teams<h4>
+ <p>
+Community-based multidisciplinary teams (MDTs) bring together a mix of health and care professionals to plan and coordinate people’s care. MDTs are widely thought to deliver high quality care for people with chronic conditions but evidence on the impact of community-based MDTs is mixed. </p?
+<p>
+The Improvement Analytics Unit (IAU), a partnership between NHS England and the Health Foundation, will discuss the findings from their quantitative evaluations of MDTs and broader integrated care programmes. Drawing also on wider evidence, we will discuss why implementation should be carefully planned and supported by ongoing monitoring in order to realise the potential benefits of MDTs.</p?
+<p>
+	Speaker:  Therese Llyod, The Health Foundation </p>
+ <p>
+	 When: Tuesday 25th April 2023, 11am – 12pm></p>
+ <a href="https://forms.office.com/pages/responsepage.aspx?id=kp4VA8ZyI0umSq9Q55Ctv0WCvCpdCLVBoLZR63IewlBUOU5RT01aM09XSUFDWDZKS0owTzlLNUxSUi4u">sign up here</a></li>
 	</ul>
 	<h3>AnalystX community</h3>
 	<ul>
