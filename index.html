@@ -254,11 +254,70 @@ layout: home_page
 	<h2>Strategic partners</h2>
 	
 <section>
-    <h2>Our Sections</h2>
-    <ul>
-        <li><a href="strategicpartners.md">Strategic Partners</a></li>
-        <!-- Add links to other sections if needed -->
-    </ul>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Logo Scrolling Display</title>
+  <style>
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+    .logo-container {
+      width: 100%;
+      overflow: hidden;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+    .logo-row {
+      display: flex;
+      animation: scroll 10s linear infinite;
+    }
+    .logo-row img {
+      width: 100px;
+      height: 100px;
+      margin: 10px;
+      transition: transform 0.3s ease;
+    }
+    .logo-row img:hover {
+      transform: scale(1.1);
+    }
+    @keyframes scroll {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-100%); }
+    }
+    /* Adjust for additional rows */
+    .logo-row:nth-child(even) {
+      animation-direction: reverse;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo-container">
+    <!-- Repeat this section for each row, total 5 rows -->
+    <div class="logo-row">
+      <!-- Repeat this section for each logo in a row, total 12 logos per row -->
+      <img src="assets/img/sp/CGI.jpg" alt="CGI">
+      <img src="assets/img/sp/AWS.jpg" alt="AWS">
+      <img src="assets/img/sp/AdviseInc.png" alt="AdviseINC">
+      <img src="assets/img/sp/DataIKU.jpg" alt="DataIKU">
+      <img src="assets/img/sp/Datarobot.jpg" alt="DataRobot">
+      <img src="assets/img/sp/FITFILE.jpg" alt="FITFILE">
+      <img src="assets/img/sp/Faculty.jpg" alt="Faculty.jpg">
+      <img src="assets/img/sp/GiH.jpg" alt="GiH">
+      <img src="assets/img/sp/Google.jpg" alt="Google Cloud">
+      <img src="assets/img/sp/HDRUK.jpg" alt="HDRUK">
+      <img src="assets/img/sp/HEU.jpg" alt="HEU">
+      <img src="assets/img/sp/IBM.jpg" alt="IBM">
+	<img src="assets/img/sp/Microsoft.jpg.jpg" alt="Microsoft">
+    </div>
+    <!-- Repeat the .logo-row section 5 times -->
+  </div>
+</body>
 </section>	
 
 	Contact us at: <a href="mailto:england.analystx@nhs.net">england.analystx@nhs.net</a>
