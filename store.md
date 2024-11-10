@@ -4,96 +4,12 @@ title: AnalystX store
 ---
 
 <section class="nhsuk-section">
-<!DOCTYPE html>
-<html lang="en">
 <head>
 From Musings to Action: Building a Marketplace for Health Data and Analytics
 </head>
 <body>	In our <a href="https://www.linkedin.com/newsletters/analystx-news-7029621632147054592/">April 2024 blog</a> , we explored the concept of leveraging the marketplace model -exemplified by digital giants like Amazon and Apple to create a dynamic and transformative platform for health data and analytics. The idea, while ambitious, holds immense potential to revolutionise the way we approach healthcare, research, and policymaking. But as we transition from the theoretical to the practical, the question arises: How do we begin to construct such a marketplace, particularly within a complex ecosystem like the NHS? <a href="https://www.linkedin.com/pulse/september-2024-updates-analystx-rfbqe/?trackingId=4HbLlNskR5GtToACgCph0w%3D%3D">from Sep AnalystX newsletter</a></body>
 
-
-<!-- AnalystX store --> 
-  <section class="nhsuk-section">
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AnalystX store</title>
-  <link rel="stylesheet" href="https://assets.nhs.uk/nhsuk-frontend/css/nhsuk.min.css">
-</head>
-<body>  
-  <main class="nhsuk-width-container">
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NHS Solution Exchange Store</title>
-  <link rel="stylesheet" href="https://assets.nhs.uk/nhsuk-frontend/css/nhsuk.min.css">
-</head>
-<body>
-  <header class="nhsuk-header nhsuk-header--transactional">
-    <div class="nhsuk-width-container">
-      <div class="nhsuk-header__content">
-        <h1 class="nhsuk-header__transactional-service-name">
-          <a href="/" class="nhsuk-header__transactional-service-name--link">AnalystX Store</a>
-        </h1>
-      </div>
-    </div>
-  </header>
-  
-  <main class="nhsuk-width-container">
-	 
-    <!-- NHS Product Marketplace Section -->
-    <section id="nhs-products-section" class="nhsuk-section">
-      <h2 class="nhsuk-heading-l">Strategic partners Product Marketplace</h2>
-      <p class="nhsuk-body">Explore products tailored specifically for NHS needs.</p>
-
-      <!-- Search Bar for NHS GitHub Repositories -->
-      <form id="nhs-github-search-form" class="nhsuk-form-group" onsubmit="return searchNHSGitHub(event)">
-        <label class="nhsuk-label" for="search-query">Search NHS Repositories:</label>
-        <input
-          type="text"
-          id="search-query"
-          class="nhsuk-input"
-          placeholder="Enter keywords"
-          required
-        />
-        <button type="submit" class="nhsuk-button">Search</button>
-      </form>
-
-      <!-- Results Section -->
-      <div id="search-results" class="nhsuk-grid-row nhsuk-u-margin-top-4"></div>
-    </section>
-  </main>
-  
-  <footer class="nhsuk-footer" role="contentinfo">
-    <div class="nhsuk-width-container nhsuk-footer__content">
-      <p class="nhsuk-footer__copyright">Strategic Partners  Store©</p>
-    </div>
-  </footer>
-
-  <script src="https://assets.nhs.uk/nhsuk-frontend/js/nhsuk.min.js"></script>
-</body>
-</html>
-
-    </section>
-  </main>
-  
-  <footer class="nhsuk-footer" role="contentinfo">
-    <div class="nhsuk-width-container nhsuk-footer__content">
-      <p class="nhsuk-footer__copyright">AnalystX Store©</p>
-    </div>
-  </footer>
-
-  <script src="https://assets.nhs.uk/nhsuk-frontend/js/nhsuk.min.js"></script>
-</body>
-</html>
-</section>
-
 <section> 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -216,10 +132,86 @@ From Musings to Action: Building a Marketplace for Health Data and Analytics
 </section>
 
 
-<h2>Communities of Practice</h2>
+<!-- AnalystX store --> 
+  <section class="nhsuk-section">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AnalystX store</title>
+  <link rel="stylesheet" href="https://assets.nhs.uk/nhsuk-frontend/css/nhsuk.min.css">
+</head>
+<body>  
+  <main class="nhsuk-width-container">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NHS Solution Exchange Store</title>
+  <link rel="stylesheet" href="https://assets.nhs.uk/nhsuk-frontend/css/nhsuk.min.css">
+</head>
+<body>
+  <header class="nhsuk-header nhsuk-header--transactional">
+    <div class="nhsuk-width-container">
+      <div class="nhsuk-header__content">
+        <h1 class="nhsuk-header__transactional-service-name">
+          <a href="/" class="nhsuk-header__transactional-service-name--link">AnalystX Store</a>
+        </h1>
+      </div>
+    </div>
+  </header>
+  
+  <main class="nhsuk-width-container">
+	 
+    <!-- NHS Product Marketplace Section -->
+    <section id="nhs-products-section" class="nhsuk-section">
+      <h2 class="nhsuk-heading-l">Strategic partners Product Marketplace</h2>
+      <p class="nhsuk-body">Explore products tailored specifically for NHS needs.</p>
 
-We are keen to support new communities in development of existing networks. Please get in touch if you would like support the development of the Process Mining Centre of Excellence.
-– email [england.analystX@nhs.net](mailto:england.analystx@nhs.net) for more information.
+      <!-- Search Bar for NHS GitHub Repositories -->
+      <form id="nhs-github-search-form" class="nhsuk-form-group" onsubmit="return searchNHSGitHub(event)">
+        <label class="nhsuk-label" for="search-query">Search NHS Repositories:</label>
+        <input
+          type="text"
+          id="search-query"
+          class="nhsuk-input"
+          placeholder="Enter keywords"
+          required
+        />
+        <button type="submit" class="nhsuk-button">Search</button>
+      </form>
+
+      <!-- Results Section -->
+      <div id="search-results" class="nhsuk-grid-row nhsuk-u-margin-top-4"></div>
+    </section>
+  </main>
+  
+  <footer class="nhsuk-footer" role="contentinfo">
+    <div class="nhsuk-width-container nhsuk-footer__content">
+      <p class="nhsuk-footer__copyright">Strategic Partners  Store©</p>
+    </div>
+  </footer>
+
+  <script src="https://assets.nhs.uk/nhsuk-frontend/js/nhsuk.min.js"></script>
+</body>
+</html>
+  </main>
+  
+  <footer class="nhsuk-footer" role="contentinfo">
+    <div class="nhsuk-width-container nhsuk-footer__content">
+      <p class="nhsuk-footer__copyright">AnalystX Store©</p>
+    </div>
+  </footer>
+
+  <script src="https://assets.nhs.uk/nhsuk-frontend/js/nhsuk.min.js"></script>
+</body>
+</html>
+</section>
+
+
+
+<h2>Contact us</h2>
+If you would like to get in touch, please contact us by email [england.analystX@nhs.net](mailto:england.analystx@nhs.net) for more information.
 
 
 
