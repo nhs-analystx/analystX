@@ -1,64 +1,100 @@
 --- 
 layout: default
-title: box leads, teams and community leads
+title: AnalystX store
 ---
 
-<h2><a href="https://future.nhs.uk/DataAnalytics/">AnalystX Team and Members</a></h2>
-<p>
- AnalystX team works in a matrtix enviornment, we support and help each other to plan, develop and help with projects.
-</p>
-<h2>Current Members:</h2>
-<ul>
-  <li><b>Suki Panesar</b> - NHS England</li>
-  <li><b>Alex Cheung</b> - NHS England</li>
-  <li><b>Simon Snowden</b> - NHS England</li>
-  <li><b>Jiri Chard</b> - NHS England</li>
-  <li><b>Sarah Blundell</b> - NHS England</li>
-  <li><b>Victroia Cornelius</b> - NHS England</li>
-  <li><b>Alex Bosche</b> - NHS England</li>
-  <li><b>Riddhi Aggarwal </b> - NHS England</li>
-  <li><b>Garvin Taylor</b> - Health Economics Unit</li>
- </ul>
- <ul>
- <h2>Community leads</h2>
-   <li><b>Alistair Bullward</b> - NHS Digital - Data Viz and BI Community for Health and Care</li>
-   <li><b>Julia Wilkins</b> - Health Economics Unit - Data science Community for Health and Care</li>
-   <li><b>Andrew Lavelle</b> - NHS England -  AnalystX SQL for Health and Care</li>
-   <li><b>Jiri Chard</b> - NHS England -  Applied Evaluation Community of Practice</li>
-   <li><b>Sarah Culkins</b> - NHS England - Data science assembly </li>
- <li><b>Rony Arafin</b> - NHS England - NHSE-R community</li>
-</ul>
+<!-- AnalystX store --> 
+  <section class="nhsuk-section">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AnalystX store</title>
+  <link rel="stylesheet" href="https://assets.nhs.uk/nhsuk-frontend/css/nhsuk.min.css">
+</head>
+<body>  
+  <main class="nhsuk-width-container">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NHS Solution Exchange Store</title>
+  <link rel="stylesheet" href="https://assets.nhs.uk/nhsuk-frontend/css/nhsuk.min.css">
+</head>
+<body>
+  <header class="nhsuk-header nhsuk-header--transactional">
+    <div class="nhsuk-width-container">
+      <div class="nhsuk-header__content">
+        <h1 class="nhsuk-header__transactional-service-name">
+          <a href="/" class="nhsuk-header__transactional-service-name--link">AnalystX Store</a>
+        </h1>
+      </div>
+    </div>
+  </header>
+  
+  <main class="nhsuk-width-container">
+	 
+    <!-- NHS Product Marketplace Section -->
+    <section id="nhs-products-section" class="nhsuk-section">
+      <h2 class="nhsuk-heading-l">Strategic partners Product Marketplace</h2>
+      <p class="nhsuk-body">Explore products tailored specifically for NHS needs.</p>
 
-<div class="nhsuk-do-dont-list">
-  <h3 class="nhsuk-do-dont-list__label">Principles and aims of the AnalystX</h3>
-  <ul class="nhsuk-list nhsuk-list--tick">
-      <li>
-          <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-<path stroke-width="4" stroke-linecap="round" d="M18.4 7.8l-8.5 8.4L5.6 12"></path>
-</svg> Work on problems that matter to patients and staff
-      </li>
-      <li>
-          <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-<path stroke-width="4" stroke-linecap="round" d="M18.4 7.8l-8.5 8.4L5.6 12"></path>
-</svg> Use existing data
-      </li>
-      <li>
-          <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-<path stroke-width="4" stroke-linecap="round" d="M18.4 7.8l-8.5 8.4L5.6 12"></path>
-</svg> Create repeatable, relevant and scalable solutions
-      </li>
-      <li>
-          <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-<path stroke-width="4" stroke-linecap="round" d="M18.4 7.8l-8.5 8.4L5.6 12"></path>
-</svg> Collaborate
-      </li>
-      <li>
-          <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-<path stroke-width="4" stroke-linecap="round" d="M18.4 7.8l-8.5 8.4L5.6 12"></path>
-</svg> Build diverse, vibrant and inclusion ecosystem to empower further innovation in advanced analytics in health and care
-      </li>
-  </ul>
-</div>
+      <!-- Search Bar for NHS GitHub Repositories -->
+      <form id="nhs-github-search-form" class="nhsuk-form-group" onsubmit="return searchNHSGitHub(event)">
+        <label class="nhsuk-label" for="search-query">Search NHS Repositories:</label>
+        <input
+          type="text"
+          id="search-query"
+          class="nhsuk-input"
+          placeholder="Enter keywords"
+          required
+        />
+        <button type="submit" class="nhsuk-button">Search</button>
+      </form>
+
+      <!-- Results Section -->
+      <div id="search-results" class="nhsuk-grid-row nhsuk-u-margin-top-4"></div>
+    </section>
+  </main>
+  
+  <footer class="nhsuk-footer" role="contentinfo">
+    <div class="nhsuk-width-container nhsuk-footer__content">
+      <p class="nhsuk-footer__copyright">Strategic Partners  Store©</p>
+    </div>
+  </footer>
+
+  <script src="https://assets.nhs.uk/nhsuk-frontend/js/nhsuk.min.js"></script>
+</body>
+</html>
+
+    </section>
+  </main>
+  
+  <footer class="nhsuk-footer" role="contentinfo">
+    <div class="nhsuk-width-container nhsuk-footer__content">
+      <p class="nhsuk-footer__copyright">AnalystX Store©</p>
+    </div>
+  </footer>
+
+  <script src="https://assets.nhs.uk/nhsuk-frontend/js/nhsuk.min.js"></script>
+</body>
+</html>
+</section>
+
+  <!-- Strategic Partners Scrolling Logo Section -->
+  <section class="nhsuk-section">
+    <h2 class="nhsuk-heading-l">Strategic Partners</h2>
+    <div class="logo-container nhsuk-u-clear">
+      <div class="logo-row">
+        <img src="assets/img/sp/CGI.jpg" alt="CGI">
+        <img src="assets/img/sp/AWS.jpg" alt="AWS">
+        <!-- Additional logos as required -->
+      </div>
+    </div>
+  </section>
+
 
 <h2>Communities of Practice</h2>
 
