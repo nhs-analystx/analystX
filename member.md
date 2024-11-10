@@ -83,17 +83,6 @@ title: AnalystX store
 </html>
 </section>
 
-  <!-- Strategic Partners Scrolling Logo Section -->
-  <section class="nhsuk-section">
-    <h2 class="nhsuk-heading-l">Strategic Partners</h2>
-    <div class="logo-container nhsuk-u-clear">
-      <div class="logo-row">
-        <img src="assets/img/sp/CGI.jpg" alt="CGI">
-        <img src="assets/img/sp/AWS.jpg" alt="AWS">
-        <!-- Additional logos as required -->
-      </div>
-    </div>
-  </section>
 
 
 <h2>Communities of Practice</h2>
