@@ -8,7 +8,7 @@ title: AnalystX store
 From Musings to Action: Building a Marketplace for Health Data and Analytics
 </head>
 <body>	In our <a href="https://www.linkedin.com/newsletters/analystx-news-7029621632147054592/">April 2024 blog</a> , we explored the concept of leveraging the marketplace model -exemplified by digital giants like Amazon and Apple to create a dynamic and transformative platform for health data and analytics. The idea, while ambitious, holds immense potential to revolutionise the way we approach healthcare, research, and policymaking. But as we transition from the theoretical to the practical, the question arises: How do we begin to construct such a marketplace, particularly within a complex ecosystem like the NHS? <a href="https://www.linkedin.com/pulse/september-2024-updates-analystx-rfbqe/?trackingId=4HbLlNskR5GtToACgCph0w%3D%3D">from Sep AnalystX newsletter</a></body>
-
+<hr>
 <section> 
 <html lang="en">
 <head>
@@ -127,8 +127,6 @@ From Musings to Action: Building a Marketplace for Health Data and Analytics
     startAutoScroll(); // Start auto-scrolling when the page loads
   </script>
 </body>
-</html>
-
 </section>
 
 
@@ -142,7 +140,6 @@ From Musings to Action: Building a Marketplace for Health Data and Analytics
 </head>
 <body>  
   <main class="nhsuk-width-container">
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -194,7 +191,7 @@ From Musings to Action: Building a Marketplace for Health Data and Analytics
 
   <script src="https://assets.nhs.uk/nhsuk-frontend/js/nhsuk.min.js"></script>
 </body>
-</html>
+
   </main>
   
   <footer class="nhsuk-footer" role="contentinfo">
