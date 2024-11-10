@@ -65,13 +65,14 @@ title: AnalystX News update
         <h2>AnalystX Update</h2>
         <p><strong>Workforce Professionalisation:</strong> Sarah Blundell, Andy Lavelle</p>
         <p> Work has started on the competency definitions of the new roles: Machine Learning Engineer, Analytics Engineer, Data Ethicist and Data Governance Manager. There are still opportunities to be involved in these workshops, provide feedback on the draft competencies, or be involved in the testing of the framework, please contact Contact <a href="mailto:Andrew.lavelle1@nhs.net">Andrew.lavelle1@nhs.net</a> for involvement.</p>
-	<p>We are also launching a review of the existing framework content. You will have your chance to feedback suggested changes and additions to Data Analyst, Data Scientist, Data Engineer, Specialisms, Working in Projects, Leadership & Management and Behaviours. Running from the 4th November to the 1st December, follow this link to provide your feedback. <a href="https://forms.office.com/e/VqrC7scAAg">https://forms.office.com/e/VqrC7scAAg.</p>
-        <p><a href="https://forms.office.com/e/VqrC7scAAg">Provide feedback on our framework review here.</a></p>
+	<p>We are also launching a review of the existing framework content. You will have your chance to feedback suggested changes and additions to Data Analyst, Data Scientist, Data Engineer, Specialisms, Working in Projects, Leadership & Management and Behaviours. Running from the 4th November to the 1st December, follow this link to provide your feedback. <a href="https://forms.office.com/e/VqrC7scAAg">https://forms.office.com/e/VqrC7scAAg </p>
     </div>
 
     <div class="section">
         <h2>Huddles</h2>
-        <p>Join Dona Reddiar, Maureen Ng’etich, and Nimat Umaru on our Health Data Science Black Internship Programme 2025. <a href="https://futurenhs.com">Sign up for AnalystX Huddles</a>.</p>
+        <p>Join Dona Reddiar, Maureen Ng’etich and Nimat Umaru from HDRUK in our next huddles on - Health Data Science Black Internship Programme 2025</p> 
+<p>as a host organisation for the fifth year of our national internship programme addressing the underrepresentation of Black people within health data. This huddle will discuss the holistic nature of the programme, some of the impact so far and the support we provide to our host organisation partner
+our huddle sign up form <a href="https://futurenhs.com">Sign up for AnalystX Huddles</a>.</p>
     </div>
 
     <div class="section">
