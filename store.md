@@ -7,8 +7,7 @@ title: AnalystX store
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-
+From Musings to Action: Building a Marketplace for Health Data and Analytics
 </head>
 <body>	In our <a href="https://www.linkedin.com/newsletters/analystx-news-7029621632147054592/">April 2024 blog</a> , we explored the concept of leveraging the marketplace model -exemplified by digital giants like Amazon and Apple to create a dynamic and transformative platform for health data and analytics. The idea, while ambitious, holds immense potential to revolutionise the way we approach healthcare, research, and policymaking. But as we transition from the theoretical to the practical, the question arises: How do we begin to construct such a marketplace, particularly within a complex ecosystem like the NHS? <a href="https://www.linkedin.com/pulse/september-2024-updates-analystx-rfbqe/?trackingId=4HbLlNskR5GtToACgCph0w%3D%3D">from Sep AnalystX newsletter</a></body>
 
@@ -183,10 +182,10 @@ title: AnalystX store
 
   <script>
     let currentIndex = 0;
+    const totalSlides = document.querySelectorAll('.carousel-item').length;
 
     function showSlide(index) {
       const carousel = document.getElementById('carousel');
-      const totalSlides = document.querySelectorAll('.carousel-item').length;
       if (index >= totalSlides) currentIndex = 0;
       if (index < 0) currentIndex = totalSlides - 1;
       carousel.style.transform = `translateX(-${currentIndex * 100}%)`;
@@ -201,13 +200,19 @@ title: AnalystX store
       currentIndex--;
       showSlide(currentIndex);
     }
+
+    // Auto-scroll functionality
+    function startAutoScroll() {
+      setInterval(() => {
+        nextSlide();
+      }, 5000); // Change slides every 5 seconds
+    }
+
+    startAutoScroll(); // Start auto-scrolling when the page loads
   </script>
 </body>
 </html>
-<body>
-The Path ForwardCreating a health data marketplace is not a one-time effort but an ongoing journey. It will require investment, collaboration, and a willingness to adapt as new challenges and opportunities arise. By building on the successes of digital marketplaces in other sectors and tailoring these models to the unique needs of healthcare, we can create a platform that drives innovation, improves patient outcomes, and ultimately transforms the way we approach health and wellness.![image](https://github.com/user-attachments/assets/29d6f4c7-9b2e-46a3-befc-24bb615add83)
-	
-</body>
+
 </section>
 
 
